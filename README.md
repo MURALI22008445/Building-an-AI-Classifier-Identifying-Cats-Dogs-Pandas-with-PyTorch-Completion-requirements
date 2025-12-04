@@ -151,6 +151,9 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+### OUTPUT:
+
+![WhatsApp Image 2025-12-04 at 1 14 10 PM](https://github.com/user-attachments/assets/0194ab2d-45ee-40af-973a-f471652f675a)
 
 ### Results
 
